@@ -1,2 +1,2 @@
 在本次实验利用Bresenham算法和其改进版本分别编写代码生成了简单的直线段。
-（Content1和Content1分别为Bresenham算法和其改进版本）
+（Content1和Content2分别为Bresenham算法和其改进版本）
